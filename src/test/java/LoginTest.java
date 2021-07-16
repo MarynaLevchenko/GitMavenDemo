@@ -26,6 +26,11 @@ public class LoginTest {
         driver.findElement(By.id("identifierId")).sendKeys("Levchenkomaryna77@gmail.com");
         driver.findElement(By.xpath("//*[@id=\"identifierNext\"]/div/button/span")).click();
 
+        // adding new comment
+        /* ksjhfhsdfsjdhf
+        jfjdhfjhf
+         */
+
     }
 
     @AfterSuite
